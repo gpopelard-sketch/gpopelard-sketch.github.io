@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.gpopelard_sketch.twa",
+    "sha256_cert_fingerprints": ["94:4B:40:06:6F:9D:A9:6D:86:6A:36:6C:D3:FC:E6:E7:95:18:A6:14:54:D3:2A:5C:EB:4A:1E:6B:CF:BB:F6:ED"]
+  }
+}]
