@@ -5,4 +5,12 @@
     "package_name": "io.github.gpopelard_sketch.twa",
     "sha256_cert_fingerprints": ["94:4B:40:06:6F:9D:A9:6D:86:6A:36:6C:D3:FC:E6:E7:95:18:A6:14:54:D3:2A:5C:EB:4A:1E:6B:CF:BB:F6:ED"]
   }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.gpopelard_sketch.voltsuivi",
+    "sha256_cert_fingerprints": ["7D:2C:AA:9B:29:1E:8F:6A:DA:41:99:11:17:11:B3:B0:54:F6:02:FB:AC:9C:DB:A5:B2:B2:D2:7D:97:B4:35:DD"]
+  }
 }]
